@@ -8,6 +8,11 @@ This bot example features the following
 - Ready for multiple servers
     - Features a prefix changing command
 
+# To start up
+- Copy the bot's directory
+- Install dependancies with `pip install -r requirements.txt`
+- Put your bot's token in `configuration.token`
+- Start the bot up using `python bot.py`
 
 # What is left for you to do:
 - Add commands to start or cancel a giveaway
@@ -16,4 +21,5 @@ This bot example features the following
 - Migrate the database to mongo atlas instead of running local
 - Personalize it
 - Give it a face
-- Deploy it
+- Deploy it to it's host
+
