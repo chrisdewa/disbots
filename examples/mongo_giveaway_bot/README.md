@@ -10,7 +10,7 @@ This bot example features the following
 
 # To start up
 - Copy the bot's directory
-- Install dependancies with `pip install -r requirements.txt`
+- Install dependencies with `pip install -r requirements.txt`
 - Put your bot's token in `configuration.token`
 - Start the bot up using `python bot.py`
 
