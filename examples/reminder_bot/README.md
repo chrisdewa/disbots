@@ -7,7 +7,7 @@ This bot features:
 - Ultra easy interface with three commands
     - `remindme! in time what`
         - `remindme! in 5m to drink water`
-            - The bot will send a reminder to ctx.channel in 5 minutos with the "drink water" text
+            - The bot will send a reminder to ctx.channel in 5 minutes with the "drink water" text
         - `remindme! every 5m work`
             - The bot will remind the user every 5 minutes to work
         - `remindme! delete`
