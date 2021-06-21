@@ -18,3 +18,10 @@ This bot features:
 - Install dependencies with `pip install -r requirements.txt`
 - Put your bot's token in `.env` (token=hjfhjkdfs128132981329)
 - Start the bot up using `python bot.py`
+
+# # What is left for you to do:
+- Add configuration. Who can use reminders and where? 
+- Enable or disable reminders for particular roles
+- Personalize the bot
+- Give it a face
+- Deploy it to a host
