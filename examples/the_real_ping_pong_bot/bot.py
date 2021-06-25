@@ -60,4 +60,4 @@ async def ping(ctx):
                 return await close()
 
 
-bot.run('ODUxODcwODgzMzI4Mjk0OTQ0.YL-klQ.wlt12V9oG8qx5lzmYWIw3Q_BhY4')
+bot.run('token')
